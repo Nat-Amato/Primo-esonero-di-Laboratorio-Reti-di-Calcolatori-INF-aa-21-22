@@ -2,6 +2,6 @@
 
 Autori:
 
--Amato Natale
+- Amato Natale
 
--de Gioia Francesco
+- de Gioia Francesco
