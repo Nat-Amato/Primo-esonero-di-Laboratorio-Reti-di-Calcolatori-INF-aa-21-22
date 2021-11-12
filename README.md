@@ -2,5 +2,5 @@
 
 Autori:
 
-Amato Natale
-de Gioia Francesco
+-Amato Natale
+-de Gioia Francesco
