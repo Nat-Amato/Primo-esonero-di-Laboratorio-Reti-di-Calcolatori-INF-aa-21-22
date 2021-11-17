@@ -23,11 +23,7 @@ Avviare il file Server.exe
 
 Una volta aperto, il server chiederà l'inserimento di una porta o in alternativa, premendo il tasto INVIO il server imposterà una porta di default (60000)
 
-<img src="https://user-images.githubusercontent.com/48321178/142228069-2d774920-23df-4d03-8985-6c79933ba0da.png" width="60%" height="60%">
-
 Scelta la porta, il server chiederà l'inserimento dell'IP della macchina o in alternativa, premendo il tasto INVIO il server imposterà l'IP su localhost (127.0.0.1)
-
-<img src="https://user-images.githubusercontent.com/48321178/142228124-92b6206c-330e-4442-b556-afb3da75061c.png" width="60%" height="60%">
 
 Terminata la configurazione, il server rimarrà in attesa di un client.
 
@@ -35,7 +31,9 @@ Terminata la configurazione, il server rimarrà in attesa di un client.
 
 Ricevuta la connessione, il server visualizzerà sullo standard output l'indirizzo e il numero di porta del client, scrivendo "*Connection established with `xxx.xxx.xxx.xxx:yyyyy`"*.
 
-<img src="https://user-images.githubusercontent.com/48321178/142264115-766e3870-fef6-4f89-b90b-53ce6a08495b.gif" width="60%" height="60%">
+
+
+<img src="https://user-images.githubusercontent.com/48321178/142268204-7f1c3a75-3427-4622-982a-e76025bd2f88.gif" width="60%" height="60%">
 
 
 
