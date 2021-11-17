@@ -31,6 +31,6 @@ Scelta la porta, il server chiederà l'inserimento dell'IP della macchina o in a
 
 Terminata la configurazione, il server rimarrà in attesa di un client.
 
-![3](https://user-images.githubusercontent.com/48321178/142228158-bd34afa8-5869-4280-a4d3-360f3895cc30.png)
+<img src="https://user-images.githubusercontent.com/48321178/142228158-bd34afa8-5869-4280-a4d3-360f3895cc30.png" width="60%" height="60%">
 
 Ricevuta la connessione, il server visualizzerà sullo standard output l'indirizzo e il numero di porta del client, scrivendo "*Connection established with `xxx.xxx.xxx.xxx:yyyyy`"*.
