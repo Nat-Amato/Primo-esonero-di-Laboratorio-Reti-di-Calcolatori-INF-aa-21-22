@@ -35,9 +35,8 @@ Terminata la configurazione, il server rimarrà in attesa di un client.
 
 Ricevuta la connessione, il server visualizzerà sullo standard output l'indirizzo e il numero di porta del client, scrivendo "*Connection established with `xxx.xxx.xxx.xxx:yyyyy`"*.
 
+<img src="https://user-images.githubusercontent.com/48321178/142264115-766e3870-fef6-4f89-b90b-53ce6a08495b.gif" width="60%" height="60%">
 
-
-...TO DO...
 
 
 
