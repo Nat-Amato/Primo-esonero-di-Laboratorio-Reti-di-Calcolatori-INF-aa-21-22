@@ -33,7 +33,7 @@ Ricevuta la connessione, il server visualizzerà sullo standard output l'indiriz
 
 > Nota bene:
 >
-> Il server interagisce anche da remoto, pertanto se al client inserirete l'IP pubblico del server, la connessione avverrà con successo, occorre però come primo passaggio impostare il Port Forwarding affinchè un computer remoto possa collegarsi ad un computer o ad un servizio specifico all'interno di una LAN.
+> Il server interagisce anche da remoto, pertanto se al client inserirete l'IP pubblico del server, la connessione avverrà con successo, occorre però come primo passaggio impostare il Port forwarding affinché un computer remoto possa collegarsi ad un computer o ad un servizio specifico all'interno di una LAN.
 
 ##### Lato client
 
