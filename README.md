@@ -21,7 +21,7 @@
 
 Avviare il file Server.exe
 
-Una volta aperto, il server chiederà l'inserimento di una porta o in alternativa, premendo il tasto INVIO il server imposterà una porta di default (60000)
+Una volta avviato, il server chiederà l'inserimento di una porta o in alternativa, premendo il tasto INVIO il server imposterà una porta di default (60000)
 
 ![1](https://user-images.githubusercontent.com/48321178/142228069-2d774920-23df-4d03-8985-6c79933ba0da.png)
 
