@@ -2,20 +2,16 @@
 
 #### Applicazione TCP client/server, dove il server è una calcolatrice remota che risponde alle richieste del client
 
-
+&nbsp;&nbsp;
 
 #### Autori
 
 - Amato Natale
 - de Gioia Francesco
 
-
-
-
+&nbsp;&nbsp;
 
 #### Guida alla configurazione
-
-
 
 ##### Lato server
 
