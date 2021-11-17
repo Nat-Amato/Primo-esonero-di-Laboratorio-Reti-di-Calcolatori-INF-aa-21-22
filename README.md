@@ -23,7 +23,7 @@ Avviare il file Server.exe
 
 Una volta aperto, il server chiederà l'inserimento di una porta o in alternativa, premendo il tasto INVIO il server imposterà una porta di default (60000)
 
-![1](https://user-images.githubusercontent.com/48321178/142228069-2d774920-23df-4d03-8985-6c79933ba0da.png)
+<img![1](https://user-images.githubusercontent.com/48321178/142228069-2d774920-23df-4d03-8985-6c79933ba0da.png)style="zoom: 50%;" />
 
 Scelta la porta, il server chiederà l'inserimento dell'IP della macchina o in alternativa, premendo il tasto INVIO il server imposterà l'IP su localhost (127.0.0.1)
 
