@@ -38,12 +38,8 @@ Ricevuta la connessione, il server visualizzerà sullo standard output l'indiriz
 
 Avviare il file Client.exe
 
-Una volta avviato, il client chiederà l'inserimento dell'IP del server o in alternativa, premendo il tasto <img src="https://user-images.githubusercontent.com/48321178/142282274-fb1c83bc-69d2-4c3d-9a5f-2862615c3b7a.png" img alt="Invio" title="INVIO" width="1.5%" height="1.5%"> il client tenterà il collegamento al localhost (127.0.0.1)
+Una volta avviato, il client chiederà l'inserimento dell'IP del server o in alternativa, premendo il tasto <img src="https://user-images.githubusercontent.com/48321178/142282274-fb1c83bc-69d2-4c3d-9a5f-2862615c3b7a.png" img alt="Invio" title="INVIO" width="1.5%" height="1.5%"> il client acquisirà il localhost (127.0.0.1)
 
-Scelto l'IP del server, il client chiederà l'inserimento della sua porta o in alternativa, premendo il tasto <img src="https://user-images.githubusercontent.com/48321178/142282274-fb1c83bc-69d2-4c3d-9a5f-2862615c3b7a.png" img alt="Invio" title="INVIO" width="1.5%" height="1.5%"> il client tenterà il collegamento alla porta impostata di default (60000)
+Scelto l'IP del server, il client chiederà l'inserimento della sua porta o in alternativa, premendo il tasto <img src="https://user-images.githubusercontent.com/48321178/142282274-fb1c83bc-69d2-4c3d-9a5f-2862615c3b7a.png" img alt="Invio" title="INVIO" width="1.5%" height="1.5%"> il client acquisirà la porta impostata di default (60000)
 
 Impostati IP e Porta, il client  richiederà la connessione al server.
-
-
-
-...TO DO...
