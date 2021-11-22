@@ -2,9 +2,9 @@
  *  Title: Lab - Reti di Calcolatori (INF) aa 21-22                              *
  *  Year:  2021                                                                  *
  *  Description: TCP client/server application,                                  *
- *  			 where the server is a remote calculator                         *
- *  			 that responds to client requests                                *
- *  Author:	Natale Amato			     								         *
+ *  			 where the server is a remote calculator                 *
+ *  			 that responds to client requests                        *
+ *  Author:	Natale Amato			                                 *
  *                                                                               *
  *********************************************************************************/
 #include "protocol.h"
