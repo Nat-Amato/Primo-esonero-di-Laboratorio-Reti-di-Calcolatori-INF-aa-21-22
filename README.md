@@ -1,5 +1,6 @@
 ## Primo esonero di Laboratorio - Reti di Calcolatori (INF) aa 21-22
 
+
 #### Applicazione TCP client/server, dove il server è una calcolatrice remota che risponde alle richieste del client
 
 &nbsp;&nbsp;
